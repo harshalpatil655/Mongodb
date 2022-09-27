@@ -1,0 +1,7 @@
+
+GET /posts Thunder Client (https://www.thunderclient.com) 200
+DELETE /posts/5?password=54123 Thunder Client (https://www.thunderclient.com) 200
+PUT /posts/10?password=54123 Thunder Client (https://www.thunderclient.com) 200
+PUT /posts/10?password=54123 Thunder Client (https://www.thunderclient.com) 200
+DELETE /posts/5?password=123 Thunder Client (https://www.thunderclient.com) 200
+DELETE /posts/5?password=54123 Thunder Client (https://www.thunderclient.com) 200
